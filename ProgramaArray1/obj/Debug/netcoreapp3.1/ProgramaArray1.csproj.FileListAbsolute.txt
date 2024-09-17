@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\bin\Debug\netcoreapp3.1\ProgramaArray1.exe
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\bin\Debug\netcoreapp3.1\ProgramaArray1.deps.json
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\bin\Debug\netcoreapp3.1\ProgramaArray1.runtimeconfig.json
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\bin\Debug\netcoreapp3.1\ProgramaArray1.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\bin\Debug\netcoreapp3.1\ProgramaArray1.dll
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\bin\Debug\netcoreapp3.1\ProgramaArray1.pdb
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.dll
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.pdb
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.genruntimeconfig.cache
