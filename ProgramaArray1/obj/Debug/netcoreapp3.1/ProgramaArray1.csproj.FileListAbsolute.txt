@@ -11,3 +11,4 @@ C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp
 C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.dll
 C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.pdb
 C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.genruntimeconfig.cache
+C:\Users\UserGPC\source\repos\ProgramaArray1\ProgramaArray1\obj\Debug\netcoreapp3.1\ProgramaArray1.sourcelink.json

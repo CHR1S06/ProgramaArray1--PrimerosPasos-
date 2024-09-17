@@ -8,16 +8,39 @@ namespace ProgramaArray1.Array_Program
     {
         public static void ArrayProgram()
         {
-            const int elementosArray = 20; //Constante de la cantidad de elementos en el array
-            int[] array = new int [elementosArray]; //Creacion del arreglo 
+            int[,] array = new int [10,2]; //Creacion de la matriz 2x2 de 20 elementos
 
-            Console.WriteLine("            " + "{0}" + "{1,7}", "Columna", ""); //encabezados
-            Console.WriteLine("Filas");
-            //Imprime el valor de cada elemento de la matriz
-            for (int contador = 0; contador < array.Length; contador++)
+            //Inicializa la matriz con valores basados en el índice lineal multiplicado por 5
+            for (int fila = 0; fila < 10; fila++)
             {
-                array[contador] += contador*5; //Multiplica el indice del elemento por 5 y lo adquiere como valor 
-                Console.WriteLine("{0,16}" + "{1,8}", contador, array[contador]);
+                for (int columna = 0; columna < 2; columna++)
+                {
+                    // Calcular el índice lineal del elemento
+                    int indiceLineal = fila * 2 + columna;
+                    array[fila, columna] = indiceLineal * 5;
+                }
+            }
+
+            // Imprimir la matriz
+            ImprimirMatriz(array);
+        }
+
+        //Metodo para imprimir la matriz
+        static void ImprimirMatriz(int[,] array)
+        {
+            int filas = array.GetLength(0); // Número de filas
+            int columnas = array.GetLength(1); // Número de columnas
+
+            Console.WriteLine("Matriz 10x2:");
+
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    // Imprimir el elemento en la fila i y columna j
+                    Console.Write($"{array[i, j],4}"); // Alineación de salida
+                }
+                Console.WriteLine(); // Nueva línea al final de cada fila
             }
         }
     }
